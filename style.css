@@ -31,6 +31,17 @@ table#calculator>thead>tr>td {
     border-radius: 5pt;
 }
 
-p.footer {
+table#icons {
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+}
+
+table#icons>tbody>tr>td {
     text-align: center;
+}
+
+table#icons>tbody>tr>td>a>img {
+    height: 30px;
 }
