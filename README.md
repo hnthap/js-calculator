@@ -1,4 +1,4 @@
 # JavaScript Calculator
 
-![](screenshot.png)
+![](./screenshot.png)
 
