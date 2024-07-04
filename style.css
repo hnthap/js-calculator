@@ -1,0 +1,32 @@
+
+
+
+table#calculator {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 32pt;
+}
+
+table#calculator>tbody>tr>td {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border: solid rgba(0, 0, 0, 0.25) 1pt;
+    border-radius: 5pt;
+    user-select: none;
+}
+
+/* table#calculator>tbody>tr>td:hover {
+    background-color: lightgray;
+} */
+
+table#calculator>thead>tr>td {
+    font-size: 40pt;
+    background-color: lightgray;
+    text-align: right;
+    border: solid rgba(0, 0, 0, 0.25) 1pt;
+    height: 80px;
+    width: 320px;
+    max-width: 320;
+    border-radius: 5pt;
+}
