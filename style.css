@@ -16,9 +16,9 @@ table#calculator>tbody>tr>td {
     user-select: none;
 }
 
-/* table#calculator>tbody>tr>td:hover {
+table#calculator>tbody>tr>td:hover {
     background-color: lightgray;
-} */
+}
 
 table#calculator>thead>tr>td {
     font-size: 40pt;
@@ -29,4 +29,8 @@ table#calculator>thead>tr>td {
     width: 320px;
     max-width: 320;
     border-radius: 5pt;
+}
+
+p.footer {
+    text-align: center;
 }
